@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Doug Hill's Personal Webpage on Github
+description: For Coursework in William & Mary's MSBA Program
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
