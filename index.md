@@ -8,7 +8,3 @@ This is a sample of content I've created for my coursework:
 - [Time Series Decomposition](/timeseries/index.md)
 
 
-
-```
-The final element.
-```
