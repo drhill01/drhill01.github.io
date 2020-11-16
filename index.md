@@ -5,6 +5,6 @@ description: For Coursework in William & Mary's MSBA Program
 
 This is a sample of content I've created for my coursework:
 
-- [Time Series Decomposition](/timeseries/index.md)
+- [Time Series Decomposition](/TimeSeries/index.md)
 
 
